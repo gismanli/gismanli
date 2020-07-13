@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋, I'm Gismanli.
+
+- 🔭 I’m currently working on Tencent.
+- 📫 How to reach me: gismanli@163.com.
 
 <!--
 **gismanli/gismanli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
